@@ -16,7 +16,7 @@ void merge(int *arr, int start, int mid, int end) {
     while (i <= mid) {
             temp.push_back(arr[i++]);
         }
-    while (j<=end) {
+    while (j <= end) {
             temp.push_back(arr[j++]);
         }
     
