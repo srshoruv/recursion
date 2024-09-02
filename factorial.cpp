@@ -11,5 +11,5 @@ int fact(int n) {
 }
 
 int main(){
-    cout << fact(8);
+    cout << fact(10);
 }
